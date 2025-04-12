@@ -17,7 +17,7 @@ public class App {
         if (resultado != -1) {
             System.out.println("El número que desea buscar se encuentra en el índice: " + resultado);
         } else {
-            System.out.println("El número que digitó no se encuentra en el arreglo.");
+            System.out.println("El número que digitó no se encuentra en el.");
         }
 
         scanner.close();
